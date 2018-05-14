@@ -1,5 +1,5 @@
 def my_hash
-planets = {"mercury" => "one", "venus" => "two", "earth" => "three", "mars" => "four"}
+planets = {"mercury" => 1, "venus" => 2, "earth" => 3, "mars" => 4}
   
 end
 
